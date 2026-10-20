@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/klen/nvim-test/commit/feb834cbc806029239479f501e8492c01a2bea65",
       "git:hexsha": "feb834cbc806029239479f501e8492c01a2bea65",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T20:54:40.083931+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/nvim-test/commit/10c4d297c627e2a6069e1b43938267c06e35a01c",
